@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\bin\Debug\Metot Tanımlama.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\bin\Debug\Metot Tanımlama.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\bin\Debug\Metot Tanımlama.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\obj\Debug\Metot Tanımlama.csproj.AssemblyReference.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\obj\Debug\Metot Tanımlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\obj\Debug\Metot Tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\obj\Debug\Metot Tanımlama.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot Tanımlama\Metot Tanımlama\obj\Debug\Metot Tanımlama.pdb
